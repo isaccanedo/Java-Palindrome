@@ -1,0 +1,2 @@
+# Java-Palindrome
+:seedling: Um palíndromo é uma palavra, número, frase ou outra sequência de caracteres que tem a mesma leitura de trás para a frente, como madame ou carro de corrida. Existem também palíndromos numéricos, incluindo carimbos de data / hora usando dígitos curtos 11/11/11 11:11 e dígitos longos 02/02/2020. Palíndromos com comprimento de frases ignoram a capitalização, a pontuação e os limites das palavras.
